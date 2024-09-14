@@ -1,0 +1,4 @@
+<!DOCTYPE html>
+<body>
+<a href="https://18667afbda679c96537565e22ae75f02.r2.cloudflarestorage.com/touchgalres/uploads/2023/06/08/%E5%8D%83%E6%81%8B%EF%BC%8A%E4%B8%87%E8%8A%B1.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=9013343ac9ec949c8e10061611fdefe5%2F20240914%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20240914T071549Z&X-Amz-Expires=60000&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22%25E5%258D%2583%25E6%2581%258B%25EF%25BC%258A%25E4%25B8%2587%25E8%258A%25B1.zip%22&X-Amz-Signature=237e7fea7497498c6ef58daeb34907e316d9099dc6cad464cd5f730d225d3bfc">黑神话悟空PC-FREE链接</a>
+</body>
